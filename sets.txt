@@ -1,0 +1,18 @@
+'add',----->add elements in set
+'clear', ---->clear set
+'copy',----->copy from one set to another set
+'pop',------>remove the first element 
+'remove',----> value based remove
+'union', ----> In two sets they can't return duplicate values
+'update'---> update from onw set to another set
+'discard',---> remove the value 
+'intersection'--> return common elements
+
+'difference',--->
+'difference_update'--->
+'intersection_update'-->
+'isdisjoint'---
+'issubset',
+'issuperset',
+'symmetric_difference', 
+'symmetric_difference_update',
